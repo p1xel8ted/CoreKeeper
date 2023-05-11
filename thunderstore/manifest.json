@@ -1,0 +1,9 @@
+{
+    "name": "Core_Keeper_Ultra-Wide",
+    "version_number": "0.0.1",
+    "website_url": "https://www.nexusmods.com/cultofthelamb/mods/1?tab=description",
+    "description": "Removes pillar boxing in menus and expands the viewport. Viewport width is customizable to find a balance between width and seeing the world de-spawn around you...",
+    "dependencies": [
+        "BepInEx-BepInExPack_Core_Keeper-2.1.0"
+    ]
+}
