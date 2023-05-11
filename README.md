@@ -14,6 +14,8 @@
 
 [![UW GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY2MzMwZTQ2YzdjODY3OWE2OTY5YThjOTMxNzQ1OGFhYTUyMTgwOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Vly31yunWvflrn924j/giphy.gif)](https://www.youtube.com/watch?v=Z2gL4cB0-w0 "UW GIF")
 
+![Menu](settings.png)<br>
+
 ## Notes
 
 - This uses a custom build of BepInEx from [here](https://core-keeper.thunderstore.io/package/BepInEx/BepInExPack_Core_Keeper/) should it need updating in the future.
