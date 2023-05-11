@@ -15,7 +15,6 @@
 - Removes pillar boxing in the menus.
 - Expands viewport width. Note you will see world spawn/de-spawning near the edges of the screen. Most likely be worse the wider the aspect ratio.
 - The viewport width is adjusted automatically, but a custom width can be set.
-- Skips intros.
 
 ## Installation
 - Grab the latest release of CoreKeeper Ultra-wide Fix from [here.](https://github.com/p1xel8ted/CoreKeeper/releases)
