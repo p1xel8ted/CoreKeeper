@@ -613,3 +613,5 @@ FodyWeavers.xsd
 
 !COTL_API/Debug/
 build/
+CoreKeeper.sln.DotSettings.user
+*.user
