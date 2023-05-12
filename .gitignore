@@ -6,6 +6,11 @@
 bin/
 obj/
 
+
+CoreKeeper.sln.DotSettings.user
+*.user
+
+
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
@@ -615,3 +620,4 @@ FodyWeavers.xsd
 build/
 CoreKeeper.sln.DotSettings.user
 *.user
+CoreKeeper.sln.DotSettings.user
